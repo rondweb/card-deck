@@ -14,5 +14,5 @@
 
 ## Web API
 
-- For the WEB API it was choosed the Framework FAST API with python 3.9
-- For the enviroment it was choosed Miniconda 3
+- For the WEB API it was choosen the Framework FAST API with python 3.9
+- For the environment it was chosen Miniconda3 to manage the packages necessaries
