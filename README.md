@@ -17,6 +17,11 @@
 - For the WEB API it was choosen the Framework FAST API with python 3.9
 - For the environment it was chosen Miniconda3 to manage the packages necessaries
 
-Running the API
+## Running the API
 - Run the installation of the enviroment using Miniconda and packages;
+-   conda create --name card-deck python=3.9
+-   conda activate card-deck
+-   conda install -c conda-forge uvicorn
+-   conda install -c conda-forge fastapi
 - Run the command in the command line:  uvicorn main:app --reload
+- Open the browser:  http://127.0.0.1:8000/docs
