@@ -16,3 +16,7 @@
 
 - For the WEB API it was choosen the Framework FAST API with python 3.9
 - For the environment it was chosen Miniconda3 to manage the packages necessaries
+
+Running the API
+- Run the installation of the enviroment using Miniconda and packages;
+- Run the command in the command line:  uvicorn main:app --reload
